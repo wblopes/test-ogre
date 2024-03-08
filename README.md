@@ -5,7 +5,6 @@ Make sure to install the following packages:
 - pytorch
 - matplotlib
 - streamlit
-- ogre-cli
 - numpy
 - torch
 - miniogre
